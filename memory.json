@@ -1,0 +1,148 @@
+{
+  "conversations": {
+    "user_id_1": [
+      {
+        "message": "halo",
+        "response": "Halo! Apa yang bisa saya bantu?"
+      },
+      {
+        "message": "berapa harga?",
+        "response": "Harga barang saat ini adalah $50."
+      }
+    ],
+    "user_id_2": [
+      {
+        "message": "siapa kamu?",
+        "response": "Saya adalah bot yang siap membantu."
+      }
+    ],
+    "1127852810441080922": [
+      {
+        "message": "halo",
+        "response": "Halo! Apa yang bisa saya bantu?"
+      },
+      {
+        "message": "siapa namamu",
+        "response": "Saya adalah bot yang siap membantu."
+      },
+      {
+        "message": "namamu",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "nama",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "halo",
+        "response": "Halo! Apa yang bisa saya bantu?"
+      },
+      {
+        "message": "nama",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "nama saya miss lili",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "nama",
+        "response": "Nama saya miss lili"
+      },
+      {
+        "message": "kamu siapa",
+        "response": "Saya adalah bot yang siap membantu."
+      },
+      {
+        "message": "apakah kamu bisa membantu saya",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "iya",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "nama",
+        "response": "Nama saya miss lili"
+      },
+      {
+        "message": "halo",
+        "response": "Halo! Apa yang bisa saya bantu?"
+      },
+      {
+        "message": "nama",
+        "response": "Nama saya miss lili"
+      },
+      {
+        "message": "apa kabar mu",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "apa kabar mu",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "saya baik, terima kasih! bagaimana dengan anda?",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "bagaimana kabarmu",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "halo",
+        "response": "Halo! Apa yang bisa saya bantu?"
+      },
+      {
+        "message": "bagaimana kabarmu",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "saya baik, terima kasih! bagaimana dengan anda?",
+        "response": "Belum ada jawaban"
+      },
+      {
+        "message": "apa kabarmu",
+        "response": "Saya baik, terima kasih! Bagaimana dengan Anda?"
+      }
+    ]
+  },
+  "patterns": [
+    {
+      "pattern": "halo|hai",
+      "response": "Halo! Apa yang bisa saya bantu?"
+    },
+    {
+      "pattern": "harga",
+      "response": "Harga barang saat ini adalah $50."
+    },
+    {
+      "pattern": "siapa",
+      "response": "Saya adalah bot yang siap membantu."
+    },
+    {
+      "pattern": "cuaca",
+      "response": "Cuaca hari ini cerah!"
+    },
+    {
+      "pattern": "nama",
+      "response": "Nama saya miss lili"
+    },
+    {
+      "pattern": "nama\\s*saya\\s*miss\\s*lili",
+      "response": "Nama"
+    },
+    {
+      "pattern": "apakah\\s*kamu\\s*bisa\\s*membantu\\s*saya",
+      "response": "Iya"
+    },
+    {
+      "pattern": "iya",
+      "response": "Nama"
+    },
+    {
+      "pattern": "apa\\s*kabar\\s*mu",
+      "response": "Saya baik, terima kasih! Bagaimana dengan Anda?"
+    }
+  ]
+}
